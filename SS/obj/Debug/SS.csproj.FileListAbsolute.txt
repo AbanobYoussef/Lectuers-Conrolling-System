@@ -1,0 +1,88 @@
+C:\Users\El AMIR TECH\Desktop\SS\SS\bin\Debug\SS.exe.config
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.csprojResolveAssemblyReference.cache
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.Properties.Resources.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.csproj.GenerateResource.Cache
+C:\Users\El AMIR TECH\Desktop\SS\SS\bin\Debug\SS.exe
+C:\Users\El AMIR TECH\Desktop\SS\SS\bin\Debug\SS.pdb
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.exe
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.pdb
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.Main.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.Lecture.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.csproj.ResolveComReference.cache
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.view.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.PRINT.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\RdlCompile.cache
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\RdlCompile.compiled
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.PRINT2.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\Interop.VBIDE.dll
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.USERS.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.profmanage.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.PM.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.SMcs.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.UM.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.SM.resources
+C:\Users\El AMIR TECH\Desktop\SS\SS\obj\Debug\SS.PL.LMcs.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\bin\Debug\SS.exe.config
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.VBIDE.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csproj.ResolveComReference.cache
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.exe
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.pdb
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\bin\Debug\SS.exe
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\bin\Debug\SS.pdb
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csprojResolveAssemblyReference.cache
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.Lecture.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.LMcs.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.Main.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PM.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PRINT.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PRINT2.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.profmanage.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.SM.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.SMcs.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.UM.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.USERS.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.view.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.Properties.Resources.resources
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csproj.GenerateResource.Cache
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\RdlCompile.cache
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\RdlCompile.compiled
+C:\Users\El AMIR TECH\Desktop\AbanobYoussef (IS Project)\SS\obj\Debug\SS.Form1.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\bin\Debug\SS.exe.config
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.AcroPDFLib.dll
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.Microsoft.Office.Core.dll
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\Interop.VBIDE.dll
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\AxInterop.AcroPDFLib.dll
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csproj.ResolveComReference.cache
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.exe
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.pdb
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csprojResolveAssemblyReference.cache
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.Form1.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.Lecture.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.LMcs.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.Main.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PM.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PRINT.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.PRINT2.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.profmanage.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.SM.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.SMcs.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.UM.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.USERS.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.PL.view.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.Properties.Resources.resources
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\SS.csproj.GenerateResource.Cache
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\RdlCompile.cache
+E:\data structure\AbanobYoussef (IS Project)\SS\obj\Debug\RdlCompile.compiled
