@@ -1,0 +1,4 @@
+It's formanaging the lecture room according to the schedule 
+which let the professor get in the room in his specified time (after scanning his barcode on his ID card)
+then let the students to get if them allowed to get in (according to the stage) 
+also by scanning there barcode and the program make a list with the names of the student that interned the lecture room
